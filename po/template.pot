@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.plasma.scriptlauncher\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+msgid "Default"
+msgstr ""
+
+msgid "Restore default"
+msgstr ""
+
+msgid "Panel icon:"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Script Launcher"
+msgstr ""
+
+msgid "Terminal:"
+msgstr ""
+
+msgid "KDE default terminal"
+msgstr ""
+
+msgid "Custom command must include the flag that runs a program, e.g. \"konsole -e\" or \"gnome-terminal --\"."
+msgstr ""
+
+msgid "View:"
+msgstr ""
+
+msgid "List (enter drawers)"
+msgstr ""
+
+msgid "Tree"
+msgstr ""
+
+msgid "Window width:"
+msgstr ""
+
+msgid "Window height:"
+msgstr ""
+
+msgid "Colors:"
+msgstr ""
+
+msgid "Use custom colors"
+msgstr ""
+
+msgid "Text color:"
+msgstr ""
+
+msgid "Entry background color:"
+msgstr ""
+
+msgid "Highlight color:"
+msgstr ""
+
+msgid "Colors of individual entries can be overridden in the \"Launchers\" tab."
+msgstr ""
+
+msgid "New drawer"
+msgstr ""
+
+msgid "New launcher"
+msgstr ""
+
+msgid "Launchers imported."
+msgstr ""
+
+msgid "Launchers exported."
+msgstr ""
+
+msgid "Could not write the file."
+msgstr ""
+
+msgid "The file could not be read or is not a valid launcher definition."
+msgstr ""
+
+msgid "Launcher"
+msgstr ""
+
+msgid "Drawer"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Import..."
+msgstr ""
+
+msgid "Export..."
+msgstr ""
+
+msgid "Move up"
+msgstr ""
+
+msgid "Move down"
+msgstr ""
+
+msgid "Move out of drawer"
+msgstr ""
+
+msgid "Put into the drawer above"
+msgstr ""
+
+msgid "Drag the handle to reorder; moving right/left changes nesting."
+msgstr ""
+
+msgid "(unnamed)"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Icon:"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "Script"
+msgstr ""
+
+msgid "File to run"
+msgstr ""
+
+msgid "Script:"
+msgstr ""
+
+msgid "File:"
+msgstr ""
+
+msgid "Run in terminal"
+msgstr ""
+
+msgid "From widget"
+msgstr ""
+
+msgid "Background color:"
+msgstr ""
+
+msgid "Launcher definitions (*.json)"
+msgstr ""
+
+msgid "All files (*)"
+msgstr ""
+
+msgid "Import launchers"
+msgstr ""
+
+msgid "Replace the current launchers or append the imported ones?"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Append"
+msgstr ""
+
+msgid "Restore default icon"
+msgstr ""
+
+msgid "No launchers. Add them in the widget settings."
+msgstr ""
+
+msgid "Action started, but no script or file is defined."
+msgstr ""
+
+msgid "Press Enter to close..."
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Launchers"
+msgstr ""

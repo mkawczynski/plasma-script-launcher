@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.plasma.scriptlauncher\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+
+msgid "Default"
+msgstr "Predefinito"
+
+msgid "Restore default"
+msgstr "Ripristina predefinito"
+
+msgid "Panel icon:"
+msgstr "Icona del pannello:"
+
+msgid "Title:"
+msgstr "Titolo:"
+
+msgid "Script Launcher"
+msgstr "Lanciatore di script"
+
+msgid "Terminal:"
+msgstr "Terminale:"
+
+msgid "KDE default terminal"
+msgstr "Terminale predefinito di KDE"
+
+msgid "Custom command must include the flag that runs a program, e.g. \"konsole -e\" or \"gnome-terminal --\"."
+msgstr "Il comando personalizzato deve includere l'opzione che esegue un programma, ad es. «konsole -e» o «gnome-terminal --»."
+
+msgid "View:"
+msgstr "Vista:"
+
+msgid "List (enter drawers)"
+msgstr "Elenco (entra nei cassetti)"
+
+msgid "Tree"
+msgstr "Albero"
+
+msgid "Window width:"
+msgstr "Larghezza finestra:"
+
+msgid "Window height:"
+msgstr "Altezza finestra:"
+
+msgid "Colors:"
+msgstr "Colori:"
+
+msgid "Use custom colors"
+msgstr "Usa colori personalizzati"
+
+msgid "Text color:"
+msgstr "Colore del testo:"
+
+msgid "Entry background color:"
+msgstr "Colore di sfondo della voce:"
+
+msgid "Highlight color:"
+msgstr "Colore di evidenziazione:"
+
+msgid "Colors of individual entries can be overridden in the \"Launchers\" tab."
+msgstr "I colori delle singole voci possono essere sostituiti nella scheda «Lanciatori»."
+
+msgid "New drawer"
+msgstr "Nuovo cassetto"
+
+msgid "New launcher"
+msgstr "Nuovo lanciatore"
+
+msgid "Launchers imported."
+msgstr "Lanciatori importati."
+
+msgid "Launchers exported."
+msgstr "Lanciatori esportati."
+
+msgid "Could not write the file."
+msgstr "Impossibile scrivere il file."
+
+msgid "The file could not be read or is not a valid launcher definition."
+msgstr "Impossibile leggere il file o non è una definizione di lanciatori valida."
+
+msgid "Launcher"
+msgstr "Lanciatore"
+
+msgid "Drawer"
+msgstr "Cassetto"
+
+msgid "Remove"
+msgstr "Rimuovi"
+
+msgid "Import..."
+msgstr "Importa..."
+
+msgid "Export..."
+msgstr "Esporta..."
+
+msgid "Move up"
+msgstr "Sposta su"
+
+msgid "Move down"
+msgstr "Sposta giù"
+
+msgid "Move out of drawer"
+msgstr "Estrai dal cassetto"
+
+msgid "Put into the drawer above"
+msgstr "Inserisci nel cassetto sopra"
+
+msgid "Drag the handle to reorder; moving right/left changes nesting."
+msgstr "Trascina la maniglia per riordinare; spostarla a destra/sinistra cambia l'annidamento."
+
+msgid "(unnamed)"
+msgstr "(senza nome)"
+
+msgid "Name:"
+msgstr "Nome:"
+
+msgid "Icon:"
+msgstr "Icona:"
+
+msgid "Type:"
+msgstr "Tipo:"
+
+msgid "Script"
+msgstr "Script"
+
+msgid "File to run"
+msgstr "File da eseguire"
+
+msgid "Script:"
+msgstr "Script:"
+
+msgid "File:"
+msgstr "File:"
+
+msgid "Run in terminal"
+msgstr "Esegui nel terminale"
+
+msgid "From widget"
+msgstr "Dal widget"
+
+msgid "Background color:"
+msgstr "Colore di sfondo:"
+
+msgid "Launcher definitions (*.json)"
+msgstr "Definizioni dei lanciatori (*.json)"
+
+msgid "All files (*)"
+msgstr "Tutti i file (*)"
+
+msgid "Import launchers"
+msgstr "Importa lanciatori"
+
+msgid "Replace the current launchers or append the imported ones?"
+msgstr "Sostituire i lanciatori attuali o aggiungere quelli importati?"
+
+msgid "Replace"
+msgstr "Sostituisci"
+
+msgid "Append"
+msgstr "Aggiungi"
+
+msgid "Restore default icon"
+msgstr "Ripristina icona predefinita"
+
+msgid "No launchers. Add them in the widget settings."
+msgstr "Nessun lanciatore. Aggiungili nelle impostazioni del widget."
+
+msgid "Action started, but no script or file is defined."
+msgstr "Azione avviata, ma non è definito alcuno script o file."
+
+msgid "Press Enter to close..."
+msgstr "Premi Invio per chiudere..."
+
+msgid "General"
+msgstr "Generale"
+
+msgid "Launchers"
+msgstr "Lanciatori"

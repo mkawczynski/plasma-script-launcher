@@ -1,0 +1,43 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "mkawczyn"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Panel icon opening a configurable tree of script and file launchers",
+        "EnabledByDefault": true,
+        "Icon": "folder",
+        "Id": "org.kde.plasma.scriptlauncher",
+        "License": "GPL-2.0+",
+        "Name": "Script Launcher",
+        "Version": "1.0",
+        "Name[pl]": "Uruchamiacz skryptów",
+        "Description[pl]": "Ikona na panelu otwierająca konfigurowalne drzewo uruchamiaczy skryptów i plików",
+        "Name[de]": "Skript-Starter",
+        "Description[de]": "Symbol in der Leiste, das einen konfigurierbaren Baum aus Skript- und Datei-Startern öffnet",
+        "Name[es]": "Lanzador de scripts",
+        "Description[es]": "Icono del panel que abre un árbol configurable de lanzadores de scripts y archivos",
+        "Name[fr]": "Lanceur de scripts",
+        "Description[fr]": "Icône du panneau ouvrant une arborescence configurable de lanceurs de scripts et de fichiers",
+        "Name[it]": "Lanciatore di script",
+        "Description[it]": "Icona del pannello che apre un albero configurabile di lanciatori di script e file",
+        "Name[pt_BR]": "Lançador de scripts",
+        "Description[pt_BR]": "Ícone do painel que abre uma árvore configurável de lançadores de scripts e arquivos",
+        "Name[ru]": "Запуск скриптов",
+        "Description[ru]": "Значок на панели, открывающий настраиваемое дерево запуска скриптов и файлов",
+        "Name[uk]": "Запуск скриптів",
+        "Description[uk]": "Значок на панелі, що відкриває настроюване дерево запуску скриптів і файлів",
+        "Name[cs]": "Spouštěč skriptů",
+        "Description[cs]": "Ikona na panelu otevírající konfigurovatelný strom spouštěčů skriptů a souborů",
+        "Name[nl]": "Scriptstarter",
+        "Description[nl]": "Paneelpictogram dat een configureerbare boom met script- en bestandsstarters opent",
+        "Name[ja]": "スクリプトランチャー",
+        "Description[ja]": "設定可能なスクリプト/ファイルランチャーのツリーを開くパネルアイコン",
+        "Name[zh_CN]": "脚本启动器",
+        "Description[zh_CN]": "在面板上打开可配置的脚本和文件启动项树的图标"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.plasma.scriptlauncher\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+
+msgid "Default"
+msgstr "Типово"
+
+msgid "Restore default"
+msgstr "Відновити типове"
+
+msgid "Panel icon:"
+msgstr "Значок на панелі:"
+
+msgid "Title:"
+msgstr "Заголовок:"
+
+msgid "Script Launcher"
+msgstr "Запуск скриптів"
+
+msgid "Terminal:"
+msgstr "Термінал:"
+
+msgid "KDE default terminal"
+msgstr "Типовий термінал KDE"
+
+msgid "Custom command must include the flag that runs a program, e.g. \"konsole -e\" or \"gnome-terminal --\"."
+msgstr "Власна команда має містити параметр запуску програми, наприклад «konsole -e» або «gnome-terminal --»."
+
+msgid "View:"
+msgstr "Вигляд:"
+
+msgid "List (enter drawers)"
+msgstr "Список (вхід у шухляди)"
+
+msgid "Tree"
+msgstr "Дерево"
+
+msgid "Window width:"
+msgstr "Ширина вікна:"
+
+msgid "Window height:"
+msgstr "Висота вікна:"
+
+msgid "Colors:"
+msgstr "Кольори:"
+
+msgid "Use custom colors"
+msgstr "Використовувати власні кольори"
+
+msgid "Text color:"
+msgstr "Колір тексту:"
+
+msgid "Entry background color:"
+msgstr "Колір тла елемента:"
+
+msgid "Highlight color:"
+msgstr "Колір виділення:"
+
+msgid "Colors of individual entries can be overridden in the \"Launchers\" tab."
+msgstr "Кольори окремих елементів можна перевизначити на вкладці «Запускачі»."
+
+msgid "New drawer"
+msgstr "Нова шухляда"
+
+msgid "New launcher"
+msgstr "Новий запускач"
+
+msgid "Launchers imported."
+msgstr "Запускачі імпортовано."
+
+msgid "Launchers exported."
+msgstr "Запускачі експортовано."
+
+msgid "Could not write the file."
+msgstr "Не вдалося записати файл."
+
+msgid "The file could not be read or is not a valid launcher definition."
+msgstr "Не вдалося прочитати файл, або це некоректне визначення запускачів."
+
+msgid "Launcher"
+msgstr "Запускач"
+
+msgid "Drawer"
+msgstr "Шухляда"
+
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "Import..."
+msgstr "Імпорт..."
+
+msgid "Export..."
+msgstr "Експорт..."
+
+msgid "Move up"
+msgstr "Вгору"
+
+msgid "Move down"
+msgstr "Вниз"
+
+msgid "Move out of drawer"
+msgstr "Вийняти з шухляди"
+
+msgid "Put into the drawer above"
+msgstr "Покласти в шухляду вище"
+
+msgid "Drag the handle to reorder; moving right/left changes nesting."
+msgstr "Перетягніть маркер, щоб змінити порядок; зсув праворуч/ліворуч змінює вкладеність."
+
+msgid "(unnamed)"
+msgstr "(без назви)"
+
+msgid "Name:"
+msgstr "Назва:"
+
+msgid "Icon:"
+msgstr "Значок:"
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "Script"
+msgstr "Скрипт"
+
+msgid "File to run"
+msgstr "Файл для запуску"
+
+msgid "Script:"
+msgstr "Скрипт:"
+
+msgid "File:"
+msgstr "Файл:"
+
+msgid "Run in terminal"
+msgstr "Запустити в терміналі"
+
+msgid "From widget"
+msgstr "З віджета"
+
+msgid "Background color:"
+msgstr "Колір тла:"
+
+msgid "Launcher definitions (*.json)"
+msgstr "Визначення запускачів (*.json)"
+
+msgid "All files (*)"
+msgstr "Усі файли (*)"
+
+msgid "Import launchers"
+msgstr "Імпорт запускачів"
+
+msgid "Replace the current launchers or append the imported ones?"
+msgstr "Замінити поточні запускачі чи додати імпортовані?"
+
+msgid "Replace"
+msgstr "Замінити"
+
+msgid "Append"
+msgstr "Додати"
+
+msgid "Restore default icon"
+msgstr "Відновити типовий значок"
+
+msgid "No launchers. Add them in the widget settings."
+msgstr "Немає елементів запуску. Додайте їх у налаштуваннях віджета."
+
+msgid "Action started, but no script or file is defined."
+msgstr "Дію запущено, але скрипт або файл не задано."
+
+msgid "Press Enter to close..."
+msgstr "Натисніть Enter, щоб закрити..."
+
+msgid "General"
+msgstr "Загальні"
+
+msgid "Launchers"
+msgstr "Запускачі"

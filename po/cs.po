@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.plasma.scriptlauncher\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+
+msgid "Default"
+msgstr "Výchozí"
+
+msgid "Restore default"
+msgstr "Obnovit výchozí"
+
+msgid "Panel icon:"
+msgstr "Ikona na panelu:"
+
+msgid "Title:"
+msgstr "Název:"
+
+msgid "Script Launcher"
+msgstr "Spouštěč skriptů"
+
+msgid "Terminal:"
+msgstr "Terminál:"
+
+msgid "KDE default terminal"
+msgstr "Výchozí terminál KDE"
+
+msgid "Custom command must include the flag that runs a program, e.g. \"konsole -e\" or \"gnome-terminal --\"."
+msgstr "Vlastní příkaz musí obsahovat volbu pro spuštění programu, např. „konsole -e“ nebo „gnome-terminal --“."
+
+msgid "View:"
+msgstr "Zobrazení:"
+
+msgid "List (enter drawers)"
+msgstr "Seznam (vstup do zásuvek)"
+
+msgid "Tree"
+msgstr "Strom"
+
+msgid "Window width:"
+msgstr "Šířka okna:"
+
+msgid "Window height:"
+msgstr "Výška okna:"
+
+msgid "Colors:"
+msgstr "Barvy:"
+
+msgid "Use custom colors"
+msgstr "Použít vlastní barvy"
+
+msgid "Text color:"
+msgstr "Barva textu:"
+
+msgid "Entry background color:"
+msgstr "Barva pozadí položky:"
+
+msgid "Highlight color:"
+msgstr "Barva zvýraznění:"
+
+msgid "Colors of individual entries can be overridden in the \"Launchers\" tab."
+msgstr "Barvy jednotlivých položek lze přepsat na kartě „Spouštěče“."
+
+msgid "New drawer"
+msgstr "Nová zásuvka"
+
+msgid "New launcher"
+msgstr "Nový spouštěč"
+
+msgid "Launchers imported."
+msgstr "Spouštěče byly importovány."
+
+msgid "Launchers exported."
+msgstr "Spouštěče byly exportovány."
+
+msgid "Could not write the file."
+msgstr "Soubor se nepodařilo zapsat."
+
+msgid "The file could not be read or is not a valid launcher definition."
+msgstr "Soubor se nepodařilo přečíst nebo nejde o platnou definici spouštěčů."
+
+msgid "Launcher"
+msgstr "Spouštěč"
+
+msgid "Drawer"
+msgstr "Zásuvka"
+
+msgid "Remove"
+msgstr "Odebrat"
+
+msgid "Import..."
+msgstr "Importovat..."
+
+msgid "Export..."
+msgstr "Exportovat..."
+
+msgid "Move up"
+msgstr "Posunout nahoru"
+
+msgid "Move down"
+msgstr "Posunout dolů"
+
+msgid "Move out of drawer"
+msgstr "Vyjmout ze zásuvky"
+
+msgid "Put into the drawer above"
+msgstr "Vložit do zásuvky výše"
+
+msgid "Drag the handle to reorder; moving right/left changes nesting."
+msgstr "Přetažením úchytu změníte pořadí; posun doprava/doleva mění zanoření."
+
+msgid "(unnamed)"
+msgstr "(bez názvu)"
+
+msgid "Name:"
+msgstr "Název:"
+
+msgid "Icon:"
+msgstr "Ikona:"
+
+msgid "Type:"
+msgstr "Typ:"
+
+msgid "Script"
+msgstr "Skript"
+
+msgid "File to run"
+msgstr "Soubor ke spuštění"
+
+msgid "Script:"
+msgstr "Skript:"
+
+msgid "File:"
+msgstr "Soubor:"
+
+msgid "Run in terminal"
+msgstr "Spustit v terminálu"
+
+msgid "From widget"
+msgstr "Z widgetu"
+
+msgid "Background color:"
+msgstr "Barva pozadí:"
+
+msgid "Launcher definitions (*.json)"
+msgstr "Definice spouštěčů (*.json)"
+
+msgid "All files (*)"
+msgstr "Všechny soubory (*)"
+
+msgid "Import launchers"
+msgstr "Import spouštěčů"
+
+msgid "Replace the current launchers or append the imported ones?"
+msgstr "Nahradit stávající spouštěče, nebo připojit importované?"
+
+msgid "Replace"
+msgstr "Nahradit"
+
+msgid "Append"
+msgstr "Připojit"
+
+msgid "Restore default icon"
+msgstr "Obnovit výchozí ikonu"
+
+msgid "No launchers. Add them in the widget settings."
+msgstr "Žádné spouštěče. Přidejte je v nastavení widgetu."
+
+msgid "Action started, but no script or file is defined."
+msgstr "Akce byla spuštěna, ale není definován žádný skript ani soubor."
+
+msgid "Press Enter to close..."
+msgstr "Zavřete stisknutím Enter..."
+
+msgid "General"
+msgstr "Obecné"
+
+msgid "Launchers"
+msgstr "Spouštěče"

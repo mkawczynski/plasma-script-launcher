@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.plasma.scriptlauncher\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Restore default"
+msgstr "恢复默认"
+
+msgid "Panel icon:"
+msgstr "面板图标:"
+
+msgid "Title:"
+msgstr "标题:"
+
+msgid "Script Launcher"
+msgstr "脚本启动器"
+
+msgid "Terminal:"
+msgstr "终端:"
+
+msgid "KDE default terminal"
+msgstr "KDE 默认终端"
+
+msgid "Custom command must include the flag that runs a program, e.g. \"konsole -e\" or \"gnome-terminal --\"."
+msgstr "自定义命令必须包含运行程序的选项，例如“konsole -e”或“gnome-terminal --”。"
+
+msgid "View:"
+msgstr "视图:"
+
+msgid "List (enter drawers)"
+msgstr "列表(进入抽屉)"
+
+msgid "Tree"
+msgstr "树形"
+
+msgid "Window width:"
+msgstr "窗口宽度:"
+
+msgid "Window height:"
+msgstr "窗口高度:"
+
+msgid "Colors:"
+msgstr "颜色:"
+
+msgid "Use custom colors"
+msgstr "使用自定义颜色"
+
+msgid "Text color:"
+msgstr "文字颜色:"
+
+msgid "Entry background color:"
+msgstr "条目背景颜色:"
+
+msgid "Highlight color:"
+msgstr "高亮颜色:"
+
+msgid "Colors of individual entries can be overridden in the \"Launchers\" tab."
+msgstr "可在“启动项”选项卡中覆盖各条目的颜色。"
+
+msgid "New drawer"
+msgstr "新建抽屉"
+
+msgid "New launcher"
+msgstr "新建启动项"
+
+msgid "Launchers imported."
+msgstr "已导入启动项。"
+
+msgid "Launchers exported."
+msgstr "已导出启动项。"
+
+msgid "Could not write the file."
+msgstr "无法写入文件。"
+
+msgid "The file could not be read or is not a valid launcher definition."
+msgstr "无法读取文件，或不是有效的启动项定义。"
+
+msgid "Launcher"
+msgstr "启动项"
+
+msgid "Drawer"
+msgstr "抽屉"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Import..."
+msgstr "导入..."
+
+msgid "Export..."
+msgstr "导出..."
+
+msgid "Move up"
+msgstr "上移"
+
+msgid "Move down"
+msgstr "下移"
+
+msgid "Move out of drawer"
+msgstr "移出抽屉"
+
+msgid "Put into the drawer above"
+msgstr "放入上方的抽屉"
+
+msgid "Drag the handle to reorder; moving right/left changes nesting."
+msgstr "拖动手柄可调整顺序；向右/向左移动可改变嵌套层级。"
+
+msgid "(unnamed)"
+msgstr "(未命名)"
+
+msgid "Name:"
+msgstr "名称:"
+
+msgid "Icon:"
+msgstr "图标:"
+
+msgid "Type:"
+msgstr "类型:"
+
+msgid "Script"
+msgstr "脚本"
+
+msgid "File to run"
+msgstr "要运行的文件"
+
+msgid "Script:"
+msgstr "脚本:"
+
+msgid "File:"
+msgstr "文件:"
+
+msgid "Run in terminal"
+msgstr "在终端中运行"
+
+msgid "From widget"
+msgstr "来自小部件"
+
+msgid "Background color:"
+msgstr "背景颜色:"
+
+msgid "Launcher definitions (*.json)"
+msgstr "启动项定义 (*.json)"
+
+msgid "All files (*)"
+msgstr "所有文件 (*)"
+
+msgid "Import launchers"
+msgstr "导入启动项"
+
+msgid "Replace the current launchers or append the imported ones?"
+msgstr "替换当前启动项还是追加导入的启动项?"
+
+msgid "Replace"
+msgstr "替换"
+
+msgid "Append"
+msgstr "追加"
+
+msgid "Restore default icon"
+msgstr "恢复默认图标"
+
+msgid "No launchers. Add them in the widget settings."
+msgstr "没有启动项。请在小部件设置中添加。"
+
+msgid "Action started, but no script or file is defined."
+msgstr "操作已启动，但未定义脚本或文件。"
+
+msgid "Press Enter to close..."
+msgstr "按 Enter 键关闭..."
+
+msgid "General"
+msgstr "常规"
+
+msgid "Launchers"
+msgstr "启动项"

@@ -1,0 +1,65 @@
+Script Launcher - a panel widget for KDE Plasma 6
+
+Put your own scripts, programs and files one click away. Script Launcher adds an icon to your panel (or desktop); clicking it opens a titled popup with a tree of launchers that you define yourself. Pick one with the keyboard or the mouse and it runs - nothing else to install, no background service.
+
+FEATURES
+
+* Three kinds of entries
+  - Script: type or paste code right in the settings. The first line decides the interpreter (#!/usr/bin/env fish, #!/bin/sh, #!/usr/bin/python3 ...); without a shebang the script runs in bash.
+  - File: point to any file. Executable files are run directly, anything else is opened with its default application (xdg-open). "~/" paths are supported.
+  - Drawer: a group that holds other entries, nested as deep as you like.
+
+* Run in terminal
+  Every script or file can optionally run in a terminal window so you can watch the output. The terminal defaults to your KDE default terminal (konsole as a fallback); you can set your own, for example "konsole -e" or "gnome-terminal --". The window waits for Enter when the program finishes.
+
+* Tree editor
+  Build the launcher list as a tree in the widget settings. Drag entries by their handle to reorder them; dragging left or right changes the nesting. Buttons are available for moving entries up, down, into or out of a drawer. New entries are added where you would expect: after the selected entry, or at the end of a selected drawer.
+
+* Two views (set per widget)
+  - List: drawers open in place, with a back button and a breadcrumb path.
+  - Tree: drawers expand and collapse inline.
+
+* Fully keyboard driven
+  - Nothing is selected when the popup opens. Down selects the first item, Up the last one; Up/Down wrap around.
+  - Enter runs the selected item. On a drawer it enters (list) or expands (tree) and selects its first item.
+  - Backspace or Esc goes up one level in the list view and closes the popup at the top level (Esc closes the popup in tree view). In the tree view Left/Right collapse and expand drawers.
+  - Enter runs the item and closes the popup.
+
+* Names, icons and colors
+  Every entry has a name and an optional icon chosen from your icon theme (sensible defaults otherwise). Set text, background and highlight colors for the whole widget, and override the text and background color of individual entries. The popup has a title bar whose text you can change.
+
+* Several widgets, independent settings
+  Add as many instances as you like - for example one for work scripts and one for system tools. Each has its own icon, title, view mode, terminal, colors and launcher tree.
+
+* Import and export
+  Save the launcher tree to a JSON file and load it on another machine or widget. When importing into a non-empty list you can replace the current launchers or append the imported ones.
+
+* Missing code? You get told
+  If an entry has no script or file defined, a KDE notification with the entry's name is shown instead of silently doing nothing.
+
+* Translated
+  Follows your KDE language and falls back to English. Included: Polish, German, Spanish, French, Italian, Brazilian Portuguese, Russian, Ukrainian, Czech, Dutch, Japanese and Simplified Chinese. Translations were written by the author and are open to corrections.
+
+REQUIREMENTS
+
+* KDE Plasma 6
+* bash, sh and optionally fish (or whichever interpreters your scripts use)
+* notify-send (libnotify) for the "nothing to run" notification
+* kreadconfig6 (part of KDE Frameworks) to detect the default terminal
+
+INSTALLATION
+
+From the source directory:
+
+  kpackagetool6 -t Plasma/Applet -i package      (first install)
+  kpackagetool6 -t Plasma/Applet -u package      (update)
+
+Then right-click the panel -> Add Widgets -> "Script Launcher". After an update you may need to restart the shell: plasmashell --replace &
+
+SECURITY NOTE
+
+Launchers run with your user's privileges, exactly like any script you start yourself. Only import launcher files from sources you trust.
+
+LICENSE
+
+GPL-2.0-or-later

@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.plasma.scriptlauncher\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+
+msgid "Default"
+msgstr "Domyślny"
+
+msgid "Restore default"
+msgstr "Przywróć domyślny"
+
+msgid "Panel icon:"
+msgstr "Ikona na panelu:"
+
+msgid "Title:"
+msgstr "Tytuł:"
+
+msgid "Script Launcher"
+msgstr "Uruchamiacz skryptów"
+
+msgid "Terminal:"
+msgstr "Terminal:"
+
+msgid "KDE default terminal"
+msgstr "Domyślny terminal KDE"
+
+msgid "Custom command must include the flag that runs a program, e.g. \"konsole -e\" or \"gnome-terminal --\"."
+msgstr "Własne polecenie musi zawierać opcję uruchamiającą program, np. „konsole -e” lub „gnome-terminal --”."
+
+msgid "View:"
+msgstr "Widok:"
+
+msgid "List (enter drawers)"
+msgstr "Lista (wchodzenie w szuflady)"
+
+msgid "Tree"
+msgstr "Drzewo"
+
+msgid "Window width:"
+msgstr "Szerokość okna:"
+
+msgid "Window height:"
+msgstr "Wysokość okna:"
+
+msgid "Colors:"
+msgstr "Kolory:"
+
+msgid "Use custom colors"
+msgstr "Użyj własnych kolorów"
+
+msgid "Text color:"
+msgstr "Kolor tekstu:"
+
+msgid "Entry background color:"
+msgstr "Kolor tła wpisu:"
+
+msgid "Highlight color:"
+msgstr "Kolor zaznaczenia:"
+
+msgid "Colors of individual entries can be overridden in the \"Launchers\" tab."
+msgstr "Kolory poszczególnych wpisów można nadpisać w zakładce „Uruchamiacze”."
+
+msgid "New drawer"
+msgstr "Nowa szuflada"
+
+msgid "New launcher"
+msgstr "Nowy uruchamiacz"
+
+msgid "Launchers imported."
+msgstr "Zaimportowano uruchamiacze."
+
+msgid "Launchers exported."
+msgstr "Wyeksportowano uruchamiacze."
+
+msgid "Could not write the file."
+msgstr "Nie udało się zapisać pliku."
+
+msgid "The file could not be read or is not a valid launcher definition."
+msgstr "Nie udało się odczytać pliku lub nie jest to poprawna definicja uruchamiaczy."
+
+msgid "Launcher"
+msgstr "Uruchamiacz"
+
+msgid "Drawer"
+msgstr "Szuflada"
+
+msgid "Remove"
+msgstr "Usuń"
+
+msgid "Import..."
+msgstr "Importuj..."
+
+msgid "Export..."
+msgstr "Eksportuj..."
+
+msgid "Move up"
+msgstr "Przesuń w górę"
+
+msgid "Move down"
+msgstr "Przesuń w dół"
+
+msgid "Move out of drawer"
+msgstr "Wyjmij z szuflady"
+
+msgid "Put into the drawer above"
+msgstr "Włóż do szuflady powyżej"
+
+msgid "Drag the handle to reorder; moving right/left changes nesting."
+msgstr "Przeciągnij uchwyt, aby zmienić kolejność; przesunięcie w prawo/lewo zmienia zagnieżdżenie."
+
+msgid "(unnamed)"
+msgstr "(bez nazwy)"
+
+msgid "Name:"
+msgstr "Nazwa:"
+
+msgid "Icon:"
+msgstr "Ikona:"
+
+msgid "Type:"
+msgstr "Typ:"
+
+msgid "Script"
+msgstr "Skrypt"
+
+msgid "File to run"
+msgstr "Plik do uruchomienia"
+
+msgid "Script:"
+msgstr "Skrypt:"
+
+msgid "File:"
+msgstr "Plik:"
+
+msgid "Run in terminal"
+msgstr "Uruchom w terminalu"
+
+msgid "From widget"
+msgstr "Z widgetu"
+
+msgid "Background color:"
+msgstr "Kolor tła:"
+
+msgid "Launcher definitions (*.json)"
+msgstr "Definicje uruchamiaczy (*.json)"
+
+msgid "All files (*)"
+msgstr "Wszystkie pliki (*)"
+
+msgid "Import launchers"
+msgstr "Import uruchamiaczy"
+
+msgid "Replace the current launchers or append the imported ones?"
+msgstr "Zastąpić obecne uruchamiacze czy dołączyć zaimportowane?"
+
+msgid "Replace"
+msgstr "Zastąp"
+
+msgid "Append"
+msgstr "Dołącz"
+
+msgid "Restore default icon"
+msgstr "Przywróć domyślną ikonę"
+
+msgid "No launchers. Add them in the widget settings."
+msgstr "Brak uruchamiaczy. Dodaj je w ustawieniach widgetu."
+
+msgid "Action started, but no script or file is defined."
+msgstr "Uruchomiono akcję, ale nie zdefiniowano skryptu ani pliku."
+
+msgid "Press Enter to close..."
+msgstr "Naciśnij Enter, aby zamknąć..."
+
+msgid "General"
+msgstr "Ogólne"
+
+msgid "Launchers"
+msgstr "Uruchamiacze"

@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.plasma.scriptlauncher\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "Restore default"
+msgstr "デフォルトに戻す"
+
+msgid "Panel icon:"
+msgstr "パネルのアイコン:"
+
+msgid "Title:"
+msgstr "タイトル:"
+
+msgid "Script Launcher"
+msgstr "スクリプトランチャー"
+
+msgid "Terminal:"
+msgstr "ターミナル:"
+
+msgid "KDE default terminal"
+msgstr "KDE のデフォルトターミナル"
+
+msgid "Custom command must include the flag that runs a program, e.g. \"konsole -e\" or \"gnome-terminal --\"."
+msgstr "カスタムコマンドには、プログラムを実行するオプション (例: 「konsole -e」「gnome-terminal --」) を含めてください。"
+
+msgid "View:"
+msgstr "表示:"
+
+msgid "List (enter drawers)"
+msgstr "リスト(ドロワーに入る)"
+
+msgid "Tree"
+msgstr "ツリー"
+
+msgid "Window width:"
+msgstr "ウィンドウの幅:"
+
+msgid "Window height:"
+msgstr "ウィンドウの高さ:"
+
+msgid "Colors:"
+msgstr "色:"
+
+msgid "Use custom colors"
+msgstr "カスタムカラーを使用"
+
+msgid "Text color:"
+msgstr "文字色:"
+
+msgid "Entry background color:"
+msgstr "項目の背景色:"
+
+msgid "Highlight color:"
+msgstr "強調色:"
+
+msgid "Colors of individual entries can be overridden in the \"Launchers\" tab."
+msgstr "個々の項目の色は「ランチャー」タブで上書きできます。"
+
+msgid "New drawer"
+msgstr "新しいドロワー"
+
+msgid "New launcher"
+msgstr "新しいランチャー"
+
+msgid "Launchers imported."
+msgstr "ランチャーをインポートしました。"
+
+msgid "Launchers exported."
+msgstr "ランチャーをエクスポートしました。"
+
+msgid "Could not write the file."
+msgstr "ファイルを書き込めませんでした。"
+
+msgid "The file could not be read or is not a valid launcher definition."
+msgstr "ファイルを読み込めないか、有効なランチャー定義ではありません。"
+
+msgid "Launcher"
+msgstr "ランチャー"
+
+msgid "Drawer"
+msgstr "ドロワー"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Import..."
+msgstr "インポート..."
+
+msgid "Export..."
+msgstr "エクスポート..."
+
+msgid "Move up"
+msgstr "上へ移動"
+
+msgid "Move down"
+msgstr "下へ移動"
+
+msgid "Move out of drawer"
+msgstr "ドロワーから出す"
+
+msgid "Put into the drawer above"
+msgstr "上のドロワーに入れる"
+
+msgid "Drag the handle to reorder; moving right/left changes nesting."
+msgstr "ハンドルをドラッグして順序を変更します。左右に動かすと階層が変わります。"
+
+msgid "(unnamed)"
+msgstr "(名前なし)"
+
+msgid "Name:"
+msgstr "名前:"
+
+msgid "Icon:"
+msgstr "アイコン:"
+
+msgid "Type:"
+msgstr "種類:"
+
+msgid "Script"
+msgstr "スクリプト"
+
+msgid "File to run"
+msgstr "実行するファイル"
+
+msgid "Script:"
+msgstr "スクリプト:"
+
+msgid "File:"
+msgstr "ファイル:"
+
+msgid "Run in terminal"
+msgstr "ターミナルで実行"
+
+msgid "From widget"
+msgstr "ウィジェットから"
+
+msgid "Background color:"
+msgstr "背景色:"
+
+msgid "Launcher definitions (*.json)"
+msgstr "ランチャー定義 (*.json)"
+
+msgid "All files (*)"
+msgstr "すべてのファイル (*)"
+
+msgid "Import launchers"
+msgstr "ランチャーのインポート"
+
+msgid "Replace the current launchers or append the imported ones?"
+msgstr "現在のランチャーを置き換えますか、それとも追加しますか?"
+
+msgid "Replace"
+msgstr "置き換え"
+
+msgid "Append"
+msgstr "追加"
+
+msgid "Restore default icon"
+msgstr "デフォルトのアイコンに戻す"
+
+msgid "No launchers. Add them in the widget settings."
+msgstr "ランチャーがありません。ウィジェットの設定で追加してください。"
+
+msgid "Action started, but no script or file is defined."
+msgstr "アクションを開始しましたが、スクリプトもファイルも定義されていません。"
+
+msgid "Press Enter to close..."
+msgstr "Enter キーを押すと閉じます..."
+
+msgid "General"
+msgstr "一般"
+
+msgid "Launchers"
+msgstr "ランチャー"

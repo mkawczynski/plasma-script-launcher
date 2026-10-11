@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.plasma.scriptlauncher\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Restore default"
+msgstr "Восстановить по умолчанию"
+
+msgid "Panel icon:"
+msgstr "Значок на панели:"
+
+msgid "Title:"
+msgstr "Заголовок:"
+
+msgid "Script Launcher"
+msgstr "Запуск скриптов"
+
+msgid "Terminal:"
+msgstr "Терминал:"
+
+msgid "KDE default terminal"
+msgstr "Терминал KDE по умолчанию"
+
+msgid "Custom command must include the flag that runs a program, e.g. \"konsole -e\" or \"gnome-terminal --\"."
+msgstr "Своя команда должна включать параметр запуска программы, например «konsole -e» или «gnome-terminal --»."
+
+msgid "View:"
+msgstr "Вид:"
+
+msgid "List (enter drawers)"
+msgstr "Список (вход в ящики)"
+
+msgid "Tree"
+msgstr "Дерево"
+
+msgid "Window width:"
+msgstr "Ширина окна:"
+
+msgid "Window height:"
+msgstr "Высота окна:"
+
+msgid "Colors:"
+msgstr "Цвета:"
+
+msgid "Use custom colors"
+msgstr "Использовать свои цвета"
+
+msgid "Text color:"
+msgstr "Цвет текста:"
+
+msgid "Entry background color:"
+msgstr "Цвет фона элемента:"
+
+msgid "Highlight color:"
+msgstr "Цвет выделения:"
+
+msgid "Colors of individual entries can be overridden in the \"Launchers\" tab."
+msgstr "Цвета отдельных элементов можно переопределить на вкладке «Запускатели»."
+
+msgid "New drawer"
+msgstr "Новый ящик"
+
+msgid "New launcher"
+msgstr "Новый запускатель"
+
+msgid "Launchers imported."
+msgstr "Элементы запуска импортированы."
+
+msgid "Launchers exported."
+msgstr "Элементы запуска экспортированы."
+
+msgid "Could not write the file."
+msgstr "Не удалось записать файл."
+
+msgid "The file could not be read or is not a valid launcher definition."
+msgstr "Не удалось прочитать файл, либо это неверное описание элементов запуска."
+
+msgid "Launcher"
+msgstr "Запускатель"
+
+msgid "Drawer"
+msgstr "Ящик"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Import..."
+msgstr "Импорт..."
+
+msgid "Export..."
+msgstr "Экспорт..."
+
+msgid "Move up"
+msgstr "Вверх"
+
+msgid "Move down"
+msgstr "Вниз"
+
+msgid "Move out of drawer"
+msgstr "Вынуть из ящика"
+
+msgid "Put into the drawer above"
+msgstr "Поместить в ящик выше"
+
+msgid "Drag the handle to reorder; moving right/left changes nesting."
+msgstr "Перетащите маркер, чтобы изменить порядок; сдвиг вправо/влево меняет вложенность."
+
+msgid "(unnamed)"
+msgstr "(без имени)"
+
+msgid "Name:"
+msgstr "Название:"
+
+msgid "Icon:"
+msgstr "Значок:"
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "Script"
+msgstr "Скрипт"
+
+msgid "File to run"
+msgstr "Файл для запуска"
+
+msgid "Script:"
+msgstr "Скрипт:"
+
+msgid "File:"
+msgstr "Файл:"
+
+msgid "Run in terminal"
+msgstr "Запустить в терминале"
+
+msgid "From widget"
+msgstr "Из виджета"
+
+msgid "Background color:"
+msgstr "Цвет фона:"
+
+msgid "Launcher definitions (*.json)"
+msgstr "Описания элементов запуска (*.json)"
+
+msgid "All files (*)"
+msgstr "Все файлы (*)"
+
+msgid "Import launchers"
+msgstr "Импорт элементов запуска"
+
+msgid "Replace the current launchers or append the imported ones?"
+msgstr "Заменить текущие элементы запуска или добавить импортированные?"
+
+msgid "Replace"
+msgstr "Заменить"
+
+msgid "Append"
+msgstr "Добавить"
+
+msgid "Restore default icon"
+msgstr "Восстановить значок по умолчанию"
+
+msgid "No launchers. Add them in the widget settings."
+msgstr "Нет элементов запуска. Добавьте их в настройках виджета."
+
+msgid "Action started, but no script or file is defined."
+msgstr "Действие запущено, но скрипт или файл не заданы."
+
+msgid "Press Enter to close..."
+msgstr "Нажмите Enter, чтобы закрыть..."
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Launchers"
+msgstr "Запускатели"

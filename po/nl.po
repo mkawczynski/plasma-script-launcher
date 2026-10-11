@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.plasma.scriptlauncher\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Restore default"
+msgstr "Standaard herstellen"
+
+msgid "Panel icon:"
+msgstr "Paneelpictogram:"
+
+msgid "Title:"
+msgstr "Titel:"
+
+msgid "Script Launcher"
+msgstr "Scriptstarter"
+
+msgid "Terminal:"
+msgstr "Terminal:"
+
+msgid "KDE default terminal"
+msgstr "Standaardterminal van KDE"
+
+msgid "Custom command must include the flag that runs a program, e.g. \"konsole -e\" or \"gnome-terminal --\"."
+msgstr "Een eigen opdracht moet de optie voor het uitvoeren van een programma bevatten, bijv. ‘konsole -e’ of ‘gnome-terminal --’."
+
+msgid "View:"
+msgstr "Weergave:"
+
+msgid "List (enter drawers)"
+msgstr "Lijst (laden openen)"
+
+msgid "Tree"
+msgstr "Boom"
+
+msgid "Window width:"
+msgstr "Vensterbreedte:"
+
+msgid "Window height:"
+msgstr "Vensterhoogte:"
+
+msgid "Colors:"
+msgstr "Kleuren:"
+
+msgid "Use custom colors"
+msgstr "Eigen kleuren gebruiken"
+
+msgid "Text color:"
+msgstr "Tekstkleur:"
+
+msgid "Entry background color:"
+msgstr "Achtergrondkleur van item:"
+
+msgid "Highlight color:"
+msgstr "Markeringskleur:"
+
+msgid "Colors of individual entries can be overridden in the \"Launchers\" tab."
+msgstr "Kleuren van afzonderlijke items kunnen worden overschreven op het tabblad ‘Starters’."
+
+msgid "New drawer"
+msgstr "Nieuwe lade"
+
+msgid "New launcher"
+msgstr "Nieuwe starter"
+
+msgid "Launchers imported."
+msgstr "Starters geïmporteerd."
+
+msgid "Launchers exported."
+msgstr "Starters geëxporteerd."
+
+msgid "Could not write the file."
+msgstr "Het bestand kon niet worden geschreven."
+
+msgid "The file could not be read or is not a valid launcher definition."
+msgstr "Het bestand kon niet worden gelezen of is geen geldige starterdefinitie."
+
+msgid "Launcher"
+msgstr "Starter"
+
+msgid "Drawer"
+msgstr "Lade"
+
+msgid "Remove"
+msgstr "Verwijderen"
+
+msgid "Import..."
+msgstr "Importeren..."
+
+msgid "Export..."
+msgstr "Exporteren..."
+
+msgid "Move up"
+msgstr "Omhoog"
+
+msgid "Move down"
+msgstr "Omlaag"
+
+msgid "Move out of drawer"
+msgstr "Uit lade halen"
+
+msgid "Put into the drawer above"
+msgstr "In de lade erboven plaatsen"
+
+msgid "Drag the handle to reorder; moving right/left changes nesting."
+msgstr "Sleep de greep om de volgorde te wijzigen; naar rechts/links verplaatsen wijzigt de nesting."
+
+msgid "(unnamed)"
+msgstr "(naamloos)"
+
+msgid "Name:"
+msgstr "Naam:"
+
+msgid "Icon:"
+msgstr "Pictogram:"
+
+msgid "Type:"
+msgstr "Type:"
+
+msgid "Script"
+msgstr "Script"
+
+msgid "File to run"
+msgstr "Uit te voeren bestand"
+
+msgid "Script:"
+msgstr "Script:"
+
+msgid "File:"
+msgstr "Bestand:"
+
+msgid "Run in terminal"
+msgstr "In terminal uitvoeren"
+
+msgid "From widget"
+msgstr "Van widget"
+
+msgid "Background color:"
+msgstr "Achtergrondkleur:"
+
+msgid "Launcher definitions (*.json)"
+msgstr "Starterdefinities (*.json)"
+
+msgid "All files (*)"
+msgstr "Alle bestanden (*)"
+
+msgid "Import launchers"
+msgstr "Starters importeren"
+
+msgid "Replace the current launchers or append the imported ones?"
+msgstr "Huidige starters vervangen of de geïmporteerde toevoegen?"
+
+msgid "Replace"
+msgstr "Vervangen"
+
+msgid "Append"
+msgstr "Toevoegen"
+
+msgid "Restore default icon"
+msgstr "Standaardpictogram herstellen"
+
+msgid "No launchers. Add them in the widget settings."
+msgstr "Geen starters. Voeg ze toe in de instellingen van de widget."
+
+msgid "Action started, but no script or file is defined."
+msgstr "Actie gestart, maar er is geen script of bestand gedefinieerd."
+
+msgid "Press Enter to close..."
+msgstr "Druk op Enter om te sluiten..."
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Launchers"
+msgstr "Starters"
